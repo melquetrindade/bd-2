@@ -9,3 +9,5 @@ Melque Rodrigues da Trindade Santos
 
 # E-mail
 melque.trindade.706@ufrn.edu.br
+
+* Tarefa-ORM [Tarefa ORM](tarefas/orm/tarefa.md)
