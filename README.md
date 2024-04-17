@@ -1,13 +1,12 @@
-# bd-2
-Repositório destinada disciplina de Projeto e Administração de Banco de Dados
 
-# Matrícula
-20220039190
+# Projeto e Administração de Banco de Dados
 
-# Aluno
-Melque Rodrigues da Trindade Santos
+## Informações Pessoais
 
-# E-mail
-melque.trindade.706@ufrn.edu.br
+- Matrícula: 20220039190
+- Nome: Melque Rodrigues da Trindade Santos
+- Email: melque.trindade.706@ufrn.edu.br
 
-* Tarefa-ORM [Tarefa ORM](tarefas/orm/tarefa-orm.md)
+## Tarefas
+
+- [Tarefa ORM](tarefas/orm/tarefa-orm.md)
