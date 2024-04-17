@@ -11,3 +11,5 @@ A biblioteca SQLAlchemy em Python é uma poderosa ferramenta ORM que simplifica 
 A utilização do ORM com SQLAlchemy envolve definir modelos de dados usando classes, mapear esses modelos para tabelas no banco de dados, realizar consultas, inserções, atualizações e exclusões de dados usando métodos de objeto e expressões SQLAlchemy, e gerenciar transações de forma eficiente. Essa abordagem simplifica o desenvolvimento de aplicativos, aumenta a portabilidade do código e reduz a quantidade de SQL manualmente escrito.
 
 # Links para scripts
+- [ORM](tarefa-orm.py)
+- [ODBC](tarefa-odbc.py)
